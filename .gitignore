@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Production
+dist
+build
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.log
+.vscode
+
+# IDE
+.idea
+.project
+.classpath
+*.suo
+*.VC.db
